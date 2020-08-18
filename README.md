@@ -1,5 +1,5 @@
-# valuelabsAssessment
-This is the repository for Valuelabstask completion
+# ValuelabsAssessment
+This is the repository for Valuelabs task completion
 # Console Appliaction: AssessmentClientApp
 
 It is console appliaction which runs on client mechine to Process the text file from the current Directory.
@@ -26,7 +26,7 @@ Here I have created DBContext in Database First Approach
 
 # Azure SQL : AssessmentDB
 
-this Database will contains two tables 
+This Database will contains two tables 
 1. Customers
 2.CustomerType
 
